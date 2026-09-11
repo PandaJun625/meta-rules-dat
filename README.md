@@ -18,7 +18,7 @@
 
 ### **rule-set**
 
-mihomo：[meta branch](https://github.com/MetaCubeX/meta-rules-dat/tree/meta)
+mihomo：[meta branch]((https://github.com/PandaJun625/meta-rules-dat.git))
 
 sing-box: [sing branch](https://github.com/MetaCubeX/meta-rules-dat/tree/sing)
 
