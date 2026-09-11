@@ -18,9 +18,9 @@
 
 ### **rule-set**
 
-mihomo：[meta branch](https://github.com/PandaJun625/meta-rules-dat.git)
+mihomo：[meta branch](https://github.com/PandaJun625/meta-rules-dat/tree/meta)
 
-sing-box: [sing branch](https://github.com/PandaJun625/meta-rules-dat.git)
+sing-box: [sing branch](https://github.com/PandaJun625/meta-rules-dat/tree/sing)
 ## **country.mmdb,geoip.dat,geoip.db 内容**
 
 同 [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
